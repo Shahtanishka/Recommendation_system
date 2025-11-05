@@ -19,4 +19,5 @@ This repository contains a Product Recommendation System using **Content-Based**
 ## Demo
 
 Try the live app on Hugging Face Spaces:  
-[Open Recommendation System](https://huggingface.co/spaces/Shahtanishka/Recommendation_system)
+[Open Recommendation System](https://huggingface.co/spaces/Tanishka14/Recommendation_system)
+
